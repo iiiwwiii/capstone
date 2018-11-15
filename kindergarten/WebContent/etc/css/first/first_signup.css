@@ -1,0 +1,59 @@
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+@charset "UTF-8";
+html * {
+	font-family: "Nanum Barun Gothic";
+	font-size: 14px;
+}
+
+body {
+	background-color: white;
+}
+
+/* footer */
+footer {
+	margin-top: 10px;
+	color: #555;
+	padding: 25px;
+	font-weight: 300;
+}
+
+.footer p {
+	margin-bottom: 0;
+	font-size: 14px;
+	margin: 0 0 10px; 
+	font-weight: 300;
+}
+
+footer p a {
+	color: #555;
+	font-weight: 400;
+}
+
+footer p a:hover {
+	color: #9f26aa;
+	text-decoration: none;
+}
+
+.row{
+	margin-top: 16px;
+}
+
+.inputstyle{
+	height:35px; 
+	font-size:12px;
+
+}
+
+
+
+.signupcard{
+	font-size:12px; 
+	height:350px;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.2)
+}
+
+.signuptitle{
+	text-align:center;
+}
+

@@ -1,0 +1,32 @@
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700');
+@charset "UTF-8";
+
+.mypagerow{
+	margin-top:30px; 
+	padding:20px;
+}
+
+.mypagefontsize{
+	font-size:12px;
+}
+
+.mypagecardheight{
+	height:400px;
+}
+
+.mypagebtn{
+	 margin-left:20px;
+}
+
+.mypagebtnupdate{
+	padding:5px 20px;
+}
+
+
+
+
+
+
