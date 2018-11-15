@@ -145,12 +145,12 @@
 						<col width="*">
 					</colgroup>
 					<tr>
-						<td>애기2</td>
+						<td>박진선</td>
 						<td>지각</td>
 						<td><i>10 mins</i></td>
 					</tr>
 					<tr>
-						<td>애기1</td>
+						<td>박현지</td>
 						<td>늦잠</td>
 						<td><i>15 mins</i></td>
 					</tr>
