@@ -140,9 +140,9 @@
 				<h3 class="ui header">From 학부모</h3>
 				<table class="ui selectable celled table">
 					<colgroup>
+						<col width="15%">
 						<col width="20%">
-						<col width="20%">
-						<col width="20%">
+						<col width="*">
 					</colgroup>
 					<tr>
 						<td>애기2</td>
