@@ -117,7 +117,7 @@
 						child = childList.get(i);
 		%>
 		<div class="container" style="margin-top:3%">
-			<div class="accordion" id="accordionExample">
+			<div class="accordion" id="accordionExample" style="margin-bottom:-14px;">
 				<div class="card">
 					<div class="card-header" id="headingOne">
 						<h5 class="mb-0">
